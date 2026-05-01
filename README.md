@@ -84,19 +84,9 @@ to turn numbers into decisions, not just charts.
 
 ## Education
 
-**Master of Economics (M.Econ)**
-Bilaspur, Chhattisgarh | 2022–2024 | CGPA: 7.8
+**Master of Economics (M.Econ)**| 2022–2024 | CGPA: 7.8
 
-**Bachelor of Commerce (B.Com)**
-Bilaspur, Chhattisgarh | 2019–2022
-
----
-
-## What I Am Currently Learning
-
-- Python for Data Analysis (pandas, matplotlib, seaborn)
-- Microsoft PL-300 Power BI Certification (in progress)
-- ETL pipeline development
+**Bachelor of Commerce (B.Com)**| 2019–2022
 
 ---
 
@@ -104,8 +94,6 @@ Bilaspur, Chhattisgarh | 2019–2022
 
 *"Data is only as valuable as the decisions it enables."*
 
-**Open to remote Data Analyst, BI Analyst,
-and Financial Analyst roles — Immediate Joiner**
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swatibarve)
 
