@@ -5,8 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/swatibarve)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:swatibarve05@gmail.com)
-![Location](https://img.shields.io/badge/Location-Bilaspur%2C%20CG-success?style=flat)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)
+
 
 </div>
 
