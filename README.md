@@ -18,13 +18,8 @@ DAX, SQL, Pandas, NumPy, Advanced Excel (VBA, Macros), and Financial
 Modelling. I build end-to-end analytics solutions —
 from raw data pipelines to executive dashboards.
 
-My economics background gives me the business context
+My economics and business background gives me the business context
 to turn numbers into decisions, not just charts.
-
-- Currently building: Python data analysis skills
-- Looking for: Data Analyst ·BI Analyst · Financial Analyst
-- Open to: Remote and hybrid roles across India
-- Immediate joiner
 
 ---
 
