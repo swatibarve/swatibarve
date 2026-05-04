@@ -1,7 +1,7 @@
 <div align="center">
 
 # Swati Barve
-### Data & Financial Analyst
+### BI Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/swatibarve)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:swatibarve05@gmail.com)
